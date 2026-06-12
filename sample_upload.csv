@@ -1,0 +1,11 @@
+company_name,job_title,category,city,country,work_mode,required_skills,salary_min,salary_max,currency,experience_level,application_deadline,status,source_link
+TechVista Solutions,Data Analyst,Data Science,Lahore,Pakistan,Onsite,"Python, SQL, Tableau, Excel",80000,150000,PKR,1-2 Years,2026-07-15,Open,https://techvista.com/careers
+CloudBase Pakistan,Cloud Engineer,Software Engineering,Karachi,Pakistan,Remote,"AWS, Docker, Kubernetes, Terraform, Linux",200000,400000,PKR,Senior,2026-08-01,Open,https://cloudbase.pk/careers
+SecureNet Systems,Cyber Security Analyst,Cyber Security,Islamabad,Pakistan,Onsite,"Kali Linux, Wireshark, Metasploit, Python",150000,280000,PKR,3-5 Years,2026-07-20,Open,https://securenet.com/careers
+WebCraft Agency,Frontend Developer,Web Development,Rawalpindi,Pakistan,Hybrid,"React, TypeScript, CSS, HTML, JavaScript",90000,180000,PKR,1-2 Years,2026-07-10,Open,https://webcraft.com/careers
+AI Nexus,Predictive Modeler,AI/ML,Lahore,Pakistan,Remote,"Python, Scikit-learn, Pandas, SQL, MLflow",120000,250000,PKR,3-5 Years,2026-07-25,Open,https://ainexus.com/careers
+DataFlow Solutions,Junior Data Analyst,Data Science,Karachi,Pakistan,Onsite,"Excel, SQL, Python, Power BI",45000,85000,PKR,Fresher,2026-06-25,Open,https://dataflow.com/careers
+InnovateTech,Pentration Tester,Cyber Security,Islamabad,Pakistan,Remote,"Burp Suite, Nmap, Python, Bash, Metasploit",180000,350000,PKR,Senior,2026-08-15,Open,https://innovatetech.com/careers
+PixelPerfect,UI/UX Designer,Web Development,Lahore,Pakistan,Onsite,"Figma, Adobe XD, HTML, CSS, JavaScript",100000,200000,PKR,1-2 Years,2026-07-05,Open,https://pixelperfect.com/careers
+QuantumLeap,MLOps Engineer,AI/ML,Karachi,Pakistan,Hybrid,"Docker, Kubernetes, MLflow, Python, AWS",220000,420000,PKR,Senior,2026-08-20,Open,https://quantumleap.com/careers
+CodeBridge Systems,Backend Developer,Software Engineering,Lahore,Pakistan,Onsite,"Python, Django, PostgreSQL, Redis, Docker",130000,260000,PKR,3-5 Years,2026-07-30,Open,https://codebridge.com/careers
